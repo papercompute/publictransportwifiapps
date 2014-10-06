@@ -1,4 +1,4 @@
-public transport wifi apps
+public transport apps
 =======================
 
 [The 13 best apps for rail passengers](http://www.railway-technology.com/features/featurebest-apps-for-rail-passengers-smartphone-commute/)
@@ -13,3 +13,5 @@ public transport wifi apps
 - [hopstop](https://www.hopstop.com/) Get transit directions
 
 [appcrawler passengers](http://appcrawlr.com/app/search?_src=sort_&max=12&q=passengers&device=ipad%2Ciphone%2Candroid%2Cwindows&go=go&sort=&trigger=deviceChange)
+
+[transit app](https://play.google.com/store/apps/details?id=com.thetransitapp.droid&hl=en) know when the next bus or train is arriving. trip planner
